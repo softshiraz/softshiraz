@@ -148,4 +148,22 @@
 ![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=flat)
 ![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=flat-square)
 ![Badge](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox)
+![Badge](https://img.shields.io/badge/Telegram-softshiraz-FFD700?style=for-the-badge&logo=telegram&logoColor=black)
+[![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge)](https://softshiraz.github.io/web/)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Success](https://img.shields.io/badge/Status-Success-brightgreen)
+![Warning](https://img.shields.io/badge/Status-Warning-yellow)
+![Error](https://img.shields.io/badge/Status-Error-red)
+![Info](https://img.shields.io/badge/Info-Details-blue)
+![Telegram](https://img.shields.io/badge/Telegram-softshiraz-2CA5E0?style=for-the-badge&logo=telegram)
+![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge&logo=instagram)
+![Admin](https://img.shields.io/badge/Admin-softshirazadmin-FFD700?style=for-the-badge&logo=telegram)
+![SoftShiraz](https://img.shields.io/badge/SoftShiraz-Anime_Screening-FFD700?style=for-the-badge)
+![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox)
+![Telegram](https://img.shields.io/badge/Telegram-softshiraz-FFD700?style=for-the-badge&logo=telegram)
+![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-FFD700?style=for-the-badge&logo=instagram)
+
+
+
+
 
