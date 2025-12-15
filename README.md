@@ -130,7 +130,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
 
-[![WebSite](https://img.shields.io/badge/WebSite-softshirazadmin-ffff00?style=for-the-badge\&logo=WebSite\&logoColor=white)](https://softshiraz.github.io/web/)
+[![WebSite](https://img.shields.io/badge/WebSite-softshirazadmin-ffff00?style=for-the-badge\&logo=Web\&logoColor=white)](https://softshiraz.github.io/web/)
 
 [![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
 
