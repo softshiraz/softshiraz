@@ -132,15 +132,9 @@
 
 [![WebSite](https://img.shields.io/badge/WebSite-softshirazadmin-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softshiraz.github.io/web/)
 
-[![Web-Admin](https://img.shields.io/badge/Web%20Admin-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshirazadmin)
+[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshirazadmin)
 
-[![Support](https://img.shields.io/badge/Support-softshirazadmin-4CAF50?style=for-the-badge&logo=zendesk&logoColor=white)](https://t.me/softshirazadmin)
-
-
-[![Support](https://img.shields.io/badge/Support-softshirazadmin-FF9800?style=for-the-badge&logo=zendesk&logoColor=white)](https://t.me/softshirazadmin)
-[![Help](https://img.shields.io/badge/Help-softshirazadmin-607D8B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://t.me/softshirazadmin)
-[![Support](https://img.shields.io/badge/Support-Online-FF9800?style=for-the-badge&logo=zendesk&logoColor=white)](https://t.me/softshirazadmin)
-
+[![Support](https://img.shields.io/badge/Support%20Web-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/floki000)
 
 
 </div>
