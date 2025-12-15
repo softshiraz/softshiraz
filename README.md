@@ -121,21 +121,7 @@
 
 ## 📱✨ ارتباط با سافت شیراز
 
-<div style="text-align:center; margin-top:20px;">
 
-[![Soft Shiraz Website](https://img.shields.io/badge/🌐%20Website-Soft%20Shiraz-FFD700?style=flat-square&logo=firefox&logoColor=black)](https://softshiraz.github.io/web/)
-
-[![Soft Shiraz Telegram](https://img.shields.io/badge/📢%20Telegram-SoftShiraz-FFD700?style=flat-square&logo=telegram&logoColor=black)](https://t.me/softshiraz)
-
-[![Soft Shiraz Instagram](https://img.shields.io/badge/📸%20Instagram-soft__shiraz-FFD700?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/soft_shiraz)
-
-[![Soft Shiraz Admin](https://img.shields.io/badge/👤%20Admin-softshirazadmin-FFD700?style=flat-square&logo=telegram&logoColor=black)](https://t.me/softshirazadmin)
-
-[![Soft Shiraz Support](https://img.shields.io/badge/🛟%20Support-FLOKI000-FFD700?style=flat-square&logo=telegram&logoColor=black)](https://t.me/FLOKI000)
-
-</div>
-
-### 🌐 وب‌سایت رسمی سافت شیراز
 <div style="text-align:center;">
 
 <br/>
@@ -144,7 +130,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
 
+[![WebSite](https://img.shields.io/badge/web-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://softshiraz.github.io/web/)
+
 [![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
+
+[![Support-Web](https://img.shields.io/badge/Support-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/floki000)
 
 </div>
 ---
