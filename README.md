@@ -138,3 +138,14 @@
 ---
 
 🌟 <span style="color:#FFD700; font-weight:bold; font-size:1.2em;">سافت شیراز؛ بزرگ‌ترین مرجع اکران انیمه و انیمیشن سینمایی در شیراز</span> 🎌
+
+
+
+
+[![LABEL](https://img.shields.io/badge/LABEL-MESSAGE-COLOR?OPTIONS)](LINK)
+![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700)
+![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=flat)
+![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=flat-square)
+![Badge](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox)
+
