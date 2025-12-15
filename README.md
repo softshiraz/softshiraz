@@ -130,11 +130,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
 
-[![WebSite](https://img.shields.io/badge/WebSite-softshirazadmin-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softshiraz.github.io/web/)
+[![WebSite](https://img.shields.io/badge/WebSite-soft%20shiraz-ffff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softshiraz.github.io/web/)
 
 [![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshirazadmin)
 
-[![Support](https://img.shields.io/badge/Support%20Web-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/floki000)
+[![Support](https://img.shields.io/badge/Support%20Web-FLOKI000-48d1cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/floki000)
 
 
 </div>
