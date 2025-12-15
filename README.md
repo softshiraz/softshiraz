@@ -164,6 +164,12 @@
 ![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-FFD700?style=for-the-badge&logo=instagram)
 
 
+...
+
+![SoftShiraz](https://img.shields.io/badge/SoftShiraz-Anime%20Cinema%20Shiraz-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![Anime Cinema](https://img.shields.io/badge/Anime%20Cinema-Shiraz-FFB000?style=for-the-badge&logo=imdb&logoColor=black)
+![Official](https://img.shields.io/badge/Official-Anime%20Screening%20Shiraz-FFC107?style=for-the-badge&logo=google&logoColor=black)
+[![SoftShiraz](https://img.shields.io/badge/SoftShiraz-Anime%20Cinema%20Shiraz-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://softshiraz.github.io/web/)
 
 
 
