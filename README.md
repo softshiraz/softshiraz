@@ -36,11 +36,16 @@
 
 ما رو در شبکه‌های اجتماعی دنبال کنید و هیچ اکرانی رو از دست ندین:
 
-- <span style="color:#ffd700; font-weight:bold;">✈️ کانال تلگرام:</span> [https://t.me/softshiraz](https://t.me/softshiraz)
-- <span style="color:#ffd700; font-weight:bold;">📸 اینستاگرام:</span> [https://instagram.com/soft_shiraz](https://instagram.com/soft_shiraz)
-- <span style="color:#ffd700; font-weight:bold;">👤 ادمین:</span> [https://t.me/softshirazadmin](https://t.me/softshirazadmin)
-- <span style="color:#ffd700; font-weight:bold;">🌐 وب‌سایت رسمی:</span> [https://softshiraz.github.io/web/](https://softshiraz.github.io/web/)
-- <span style="color:#ffd700; font-weight:bold;">🎧 پشتیبانی سایت:</span> [https://t.me/FLOKI000](https://t.me/FLOKI000)
+[![وب‌سایت](https://img.shields.io/badge/وب--سایت-FLOKI-1A8FCA?style=for-the-badge&logo=firefox&logoColor=white)](https://softshiraz.github.io/web/)
+
+[![کانال تلگرام](https://img.shields.io/badge/کانال_تلگرام-softshiraz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshiraz)
+
+[![اینستاگرام](https://img.shields.io/badge/اینستاگرام-soft_shiraz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soft_shiraz)
+
+[![ادمین](https://img.shields.io/badge/ادمین-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshirazadmin)
+
+[![پشتیبانی سایت](https://img.shields.io/badge/پشتیبانی_سایت-FLOKI000-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FLOKI000)
 
 ---
 
+<span style="font-size:1.2em;">**[← بازگشت به صفحه اصلی](../index.html)**</span>
