@@ -126,15 +126,15 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-softshiraz-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshiraz)
+[![Telegram](https://img.shields.io/badge/Telegram-softshiraz-000000?style=for-the-badge\&logo=telegram\&logoColor=white&color=ffff00)](https://t.me/softshiraz)
 
-[![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
+[![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-000000?style=for-the-badge\&logo=instagram\&logoColor=white&color=ffff00)](https://instagram.com/soft_shiraz)
 
 [![WebSite](https://img.shields.io/badge/WebSite-soft%20shiraz-000000?style=for-the-badge&logo=google-chrome&logoColor=white&color=ffff00)](https://softshiraz.github.io/web/)
 
-[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshirazadmin)
+[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-000000?style=for-the-badge&logo=telegram&logoColor=white&color=ffff00)](https://t.me/softshirazadmin)
 
-[![Support](https://img.shields.io/badge/Support%20Web-FLOKI000-00ff00?style=for-the-badge&logo=telegram&logoColor=BLACK)](https://t.me/floki000)
+[![Support](https://img.shields.io/badge/Support%20Web-FLOKI000-000000?style=for-the-badge&logo=telegram&logoColor=BLACK&color=ffff00)](https://t.me/floki000)
 
 
 </div>
