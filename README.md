@@ -92,35 +92,19 @@
 
 ---
 
-## 📱 ارتباط با ما | تماس با سافت شیراز
+## 📱 ارتباط با ما | Contact Soft Shiraz
 
-اگر به دنبال **اکران انیمه در شیراز**، **رزرو بلیط انیمه سینمایی** یا اطلاع از **ایونت‌های انیمه و انیمیشن شیراز** هستید، از طریق راه‌های زیر با ما در ارتباط باشید:
+<!-- Persian RTL safe badges (SEO & GitHub friendly) -->
 
-### 🌐 وب‌سایت رسمی سافت شیراز
+[![Website](https://img.shields.io/badge/Website-SoftShiraz-1A8FCA?style=for-the-badge\&logo=firefox\&logoColor=white)](https://softshiraz.github.io/web/)
 
-اطلاعات کامل اکران‌ها، معرفی ایونت‌ها و اخبار جدید:
+[![Telegram Channel](https://img.shields.io/badge/Telegram-SoftShiraz-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshiraz)
 
-[وب‌سایت رسمی سافت شیراز](https://softshiraz.github.io/web/)
+[![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
 
-### 📢 کانال تلگرام سافت شیراز
+[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
 
-اعلام برنامه اکران انیمه، زمان‌بندی، رزرو بلیط و اطلاعیه‌ها:
-
-[https://t.me/softshiraz](https://t.me/softshiraz)
-
-### 📸 اینستاگرام سافت شیراز
-
-عکس‌ها، ویدیوها، گزارش اکران‌ها و فضای ایونت‌ها:
-
-[https://instagram.com/soft_shiraz](https://instagram.com/soft_shiraz)
-
-### 👤 ارتباط با ادمین (رزرو و هماهنگی)
-
-[https://t.me/softshirazadmin](https://t.me/softshirazadmin)
-
-### 🛠 پشتیبانی سایت
-
-[https://t.me/FLOKI000](https://t.me/FLOKI000)
+[![Support](https://img.shields.io/badge/Support-FLOKI000-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/FLOKI000)
 
 ---
 
