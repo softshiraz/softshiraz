@@ -1,4 +1,4 @@
-# 🎬✨ اکران انیمه در شیراز | سافت شیراز (Soft Shiraz)
+# 🎬✨ سافت شیراز : Soft Shiraz ✨🎬
 
 <div style="text-align:center; font-size:1.25em;">
 <span style="color:#FFD700; font-weight:bold;">مرجع رسمی، قدیمی‌ترین و گسترده‌ترین اکران انیمه و انیمیشن سینمایی در شیراز</span> 🌟🎌🍿
@@ -134,13 +134,13 @@
 
 [![Admin](https://img.shields.io/badge/Admin-softshirazadmin-000000?style=for-the-badge&logo=telegram&logoColor=white&color=ffff00)](https://t.me/softshirazadmin)
 
-[![Support](https://img.shields.io/badge/Support%20Web-FLOKI000-000000?style=for-the-badge&logo=telegram&logoColor=BLACK&color=ffff00)](https://t.me/floki000)
+[![Support](https://img.shields.io/badge/Support%20Web-FLOKI000-000000?style=for-the-badge&logo=telegram&logoColor=white&color=ffff00)](https://t.me/floki000)
 
 
 </div>
 
 
-🌟 <span style="color:#FFD700; font-weight:bold; font-size:1.2em;">سافت شیراز؛ بزرگ‌ترین مرجع اکران انیمه و انیمیشن سینمایی در شیراز</span> 🎌
+🌟 <span style="color:#FFD700; font-weight:bold; font-size:1.2em;">سافت شیراز؛ بزرگ‌ترین مرجع اکران فیلم و انیمه و انیمیشن سینمایی در شیراز</span> 🎌
 
 
 
