@@ -130,15 +130,15 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
 
-[![WebSite](https://img.shields.io/badge/WebSite-softshirazadmin-ffff00?style=for-the-badge\&logo=Web\&logoColor=white)](https://softshiraz.github.io/web/)
+[![WebSite](https://img.shields.io/badge/WebSite-softshirazadmin-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softshiraz.github.io/web/)
 
-[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
+[![Web-Admin](https://img.shields.io/badge/Web%20Admin-softshirazadmin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/softshirazadmin)
 
-[![Support-Web](https://img.shields.io/badge/SupportWeb-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
+[![Support](https://img.shields.io/badge/Support-softshirazadmin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://t.me/softshirazadmin)
 
 
 </div>
----
+
 
 🌟 <span style="color:#FFD700; font-weight:bold; font-size:1.2em;">سافت شیراز؛ بزرگ‌ترین مرجع اکران انیمه و انیمیشن سینمایی در شیراز</span> 🎌
 
