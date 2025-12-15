@@ -138,8 +138,6 @@
 ### 🌐 وب‌سایت رسمی سافت شیراز
 <div style="text-align:center;">
 
-[![Website](https://img.shields.io/badge/Official_Website-SoftShiraz-FFD700?style=for-the-badge\&logo=googlechrome\&logoColor=black)](https://softshiraz.github.io/web/)
-
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-softshiraz-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshiraz)
