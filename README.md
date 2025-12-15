@@ -136,8 +136,19 @@
 </div>
 
 ### 🌐 وب‌سایت رسمی سافت شیراز
-[![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://softshiraz.github.io/web/)
+<div style="text-align:center;">
 
+[![Website](https://img.shields.io/badge/Official_Website-SoftShiraz-FFD700?style=for-the-badge\&logo=googlechrome\&logoColor=black)](https://softshiraz.github.io/web/)
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-softshiraz-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshiraz)
+
+[![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/soft_shiraz)
+
+[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
+
+</div>
 ---
 
 🌟 <span style="color:#FFD700; font-weight:bold; font-size:1.2em;">سافت شیراز؛ بزرگ‌ترین مرجع اکران انیمه و انیمیشن سینمایی در شیراز</span> 🎌
