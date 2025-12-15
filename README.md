@@ -134,7 +134,7 @@
 
 [![Admin](https://img.shields.io/badge/Admin-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
 
-[![Support-Web](https://img.shields.io/badge/Support Web-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
+[![Support-Web](https://img.shields.io/badge/SupportWeb-softshirazadmin-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/softshirazadmin)
 
 
 </div>
