@@ -135,6 +135,8 @@
 
 </div>
 
+### 🌐 وب‌سایت رسمی سافت شیراز
+[![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://softshiraz.github.io/web/)
 
 ---
 
