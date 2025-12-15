@@ -121,55 +121,24 @@
 
 ## 📱✨ ارتباط با سافت شیراز
 
-<div style="text-align:center;">
+<div style="text-align:center; margin-top:20px;">
 
-[![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge\&logo=firefox\&logoColor=black)](https://softshiraz.github.io/web/)
+[![Soft Shiraz Website](https://img.shields.io/badge/🌐%20Website-Soft%20Shiraz-FFD700?style=flat-square&logo=firefox&logoColor=black)](https://softshiraz.github.io/web/)
 
-[![Telegram](https://img.shields.io/badge/Telegram-SoftShiraz-FFD700?style=for-the-badge\&logo=telegram\&logoColor=black)](https://t.me/softshiraz)
+[![Soft Shiraz Telegram](https://img.shields.io/badge/📢%20Telegram-SoftShiraz-FFD700?style=flat-square&logo=telegram&logoColor=black)](https://t.me/softshiraz)
 
-[![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-FFD700?style=for-the-badge\&logo=instagram\&logoColor=black)](https://instagram.com/soft_shiraz)
+[![Soft Shiraz Instagram](https://img.shields.io/badge/📸%20Instagram-soft__shiraz-FFD700?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/soft_shiraz)
 
-[![Admin](https://img.shields.io/badge/Admin-softshirazadmin-FFD700?style=for-the-badge\&logo=telegram\&logoColor=black)](https://t.me/softshirazadmin)
+[![Soft Shiraz Admin](https://img.shields.io/badge/👤%20Admin-softshirazadmin-FFD700?style=flat-square&logo=telegram&logoColor=black)](https://t.me/softshirazadmin)
 
-[![Support](https://img.shields.io/badge/Support-FLOKI000-FFD700?style=for-the-badge\&logo=telegram\&logoColor=black)](https://t.me/FLOKI000)
+[![Soft Shiraz Support](https://img.shields.io/badge/🛟%20Support-FLOKI000-FFD700?style=flat-square&logo=telegram&logoColor=black)](https://t.me/FLOKI000)
 
 </div>
+
 
 ---
 
 🌟 <span style="color:#FFD700; font-weight:bold; font-size:1.2em;">سافت شیراز؛ بزرگ‌ترین مرجع اکران انیمه و انیمیشن سینمایی در شیراز</span> 🎌
-
-
-
-
-[![LABEL](https://img.shields.io/badge/LABEL-MESSAGE-COLOR?OPTIONS)](LINK)
-![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700)
-![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=flat)
-![Badge](https://img.shields.io/badge/Soft-Shiraz-FFD700?style=flat-square)
-![Badge](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox)
-![Badge](https://img.shields.io/badge/Telegram-softshiraz-FFD700?style=for-the-badge&logo=telegram&logoColor=black)
-[![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge)](https://softshiraz.github.io/web/)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Success](https://img.shields.io/badge/Status-Success-brightgreen)
-![Warning](https://img.shields.io/badge/Status-Warning-yellow)
-![Error](https://img.shields.io/badge/Status-Error-red)
-![Info](https://img.shields.io/badge/Info-Details-blue)
-![Telegram](https://img.shields.io/badge/Telegram-softshiraz-2CA5E0?style=for-the-badge&logo=telegram)
-![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-E4405F?style=for-the-badge&logo=instagram)
-![Admin](https://img.shields.io/badge/Admin-softshirazadmin-FFD700?style=for-the-badge&logo=telegram)
-![SoftShiraz](https://img.shields.io/badge/SoftShiraz-Anime_Screening-FFD700?style=for-the-badge)
-![Website](https://img.shields.io/badge/Website-SoftShiraz-FFD700?style=for-the-badge&logo=firefox)
-![Telegram](https://img.shields.io/badge/Telegram-softshiraz-FFD700?style=for-the-badge&logo=telegram)
-![Instagram](https://img.shields.io/badge/Instagram-soft__shiraz-FFD700?style=for-the-badge&logo=instagram)
-
-
-...
-
-![SoftShiraz](https://img.shields.io/badge/SoftShiraz-Anime%20Cinema%20Shiraz-FFD700?style=for-the-badge&logo=github&logoColor=black)
-![Anime Cinema](https://img.shields.io/badge/Anime%20Cinema-Shiraz-FFB000?style=for-the-badge&logo=imdb&logoColor=black)
-![Official](https://img.shields.io/badge/Official-Anime%20Screening%20Shiraz-FFC107?style=for-the-badge&logo=google&logoColor=black)
-[![SoftShiraz](https://img.shields.io/badge/SoftShiraz-Anime%20Cinema%20Shiraz-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://softshiraz.github.io/web/)
 
 
 
