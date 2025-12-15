@@ -136,6 +136,11 @@
 
 [![Support](https://img.shields.io/badge/Support-softshirazadmin-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white)](https://t.me/softshirazadmin)
 
+[![Support](https://img.shields.io/badge/Support-softshirazadmin-FF9800?style=for-the-badge&logo=zendesk&logoColor=white)](https://t.me/softshirazadmin)
+[![Help](https://img.shields.io/badge/Help-softshirazadmin-607D8B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://t.me/softshirazadmin)
+[![Support](https://img.shields.io/badge/Support-Online-FF9800?style=for-the-badge&logo=zendesk&logoColor=white)](https://t.me/softshirazadmin)
+
+
 
 </div>
 
